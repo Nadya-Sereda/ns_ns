@@ -1,0 +1,9 @@
+body{font-family:Arial;}
+h1 {
+    font-size: 32pt;
+    text-aling: center;
+}
+p {
+    font-size:14pt;
+    text-aligh: jastify
+}
